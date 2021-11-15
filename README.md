@@ -12,19 +12,22 @@ Utilizing GPS technology, it is possible to pinpoint the current location of the
 ### Systematic display of recorded information in multiple pages
 Reports from the app users are first stored before being displayed on 2 different pages for compilation and analysis. The two pages have different criterias, one is for the worst occupancies in a given hour while the other is the statistics for a building. This feature aims to improve the efficiency in information extraction based on certain variables. 
 
-<img src=screenshots/2.png width=200 />
+<img src=screenshots/2.png width=200 /> <img src=screenshots/3.png width=200 />
 
 ### Search button
 This app also has a search feature that run through the list of observations and filter entries on search input. In the observations page, the administrator is able to search through the entire list of entries by using the search filter. During this process, only entries that match with the search input will be displayed and the displayed entries would be updated on input of a new character. This feature allows for precise information extraction.
+<img src=screenshots/5.png width=200 />
 
 
 ### Delete faulty observations
 In the observations page, where all recorded observations from users are stored and displayed, each entry possesses a bin icon that will delete said entry when clicked. This would allow the administrator to delete any observations that were invalid or unwanted from the list. This feature was implemented to provide a more effective way in filtering useful data. 
+<img src=screenshots/4.png width=200 />
 
 
 ## How to use the App? (User Guide)
 ### To make an observation report
 In the new observations tab, users can make a report provided their phones are connected to the internet. For the address, room number, seats used and total seats, there are text boxes available to the user to manually type values of a given room. There are two sliders for the lights and heating that can be adjusted by tapping to either indicate if they are on or off. 
+<img src=screenshots/6.png width=200 /> <img src=screenshots/7.png width=200 /> <img src=screenshots/8.png width=200 />
 
 
 As mentioned, there is an alternative feature for the address, where there is a checkbox, that when tapped, will automatically detect and input your address into the text box. The address will only be inputed when the accuraccy of the address is within 500m, hence users will need to manually key in the address if the address fails to appear.
