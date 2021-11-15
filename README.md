@@ -28,7 +28,7 @@ In the observations page, where all recorded observations from users are stored 
 ### To make an observation report
 In the new observations tab, users can make a report provided their phones are connected to the internet. For the address, room number, seats used and total seats, there are text boxes available to the user to manually type values of a given room. There are two sliders for the lights and heating that can be adjusted by tapping to either indicate if they are on or off. 
 
-<img src=screenshots/6.png width=200 /> <img src=screenshots/7.png width=200 /> <img src=screenshots/8.png width=200 />
+<img src=screenshots/6.png height=500 /> <img src=screenshots/7.png height=500 /> <img src=screenshots/8.png height=500 />
 
 As mentioned, there is an alternative feature for the address, where there is a checkbox, that when tapped, will automatically detect and input your address into the text box. The address will only be inputed when the accuraccy of the address is within 500m, hence users will need to manually key in the address if the address fails to appear.
 
