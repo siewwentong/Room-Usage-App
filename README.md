@@ -26,6 +26,10 @@ In the observations page, where all recorded observations from users are stored 
 
 <img src=screenshots/4.png height=400 />
 
+## Class diagram
+
+<img src=screenshots/class_diagram.png />
+
 ## How to use the App? (User Guide)
 ### To make an observation report
 In the new observations tab, users can make a report provided their phones are connected to the internet. For the address, room number, seats used and total seats, there are text boxes available to the user to manually type values of a given room. There are two sliders for the lights and heating that can be adjusted by tapping to either indicate if they are on or off. 
