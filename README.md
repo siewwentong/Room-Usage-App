@@ -12,7 +12,7 @@ Utilizing GPS technology, it is possible to pinpoint the current location of the
 ### Systematic display of recorded information in multiple pages
 Reports from the app users are first stored before being displayed on 2 different pages for compilation and analysis. The two pages have different criterias, one is for the worst occupancies in a given hour while the other is the statistics for a building. This feature aims to improve the efficiency in information extraction based on certain variables. 
 
-![alt text](screenshots/2.png | width=50)
+<img src=screenshots/2.png width=50 />
 
 ### Search button
 This app also has a search feature that run through the list of observations and filter entries on search input. In the observations page, the administrator is able to search through the entire list of entries by using the search filter. During this process, only entries that match with the search input will be displayed and the displayed entries would be updated on input of a new character. This feature allows for precise information extraction.
