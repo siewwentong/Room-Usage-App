@@ -28,7 +28,7 @@ In the observations page, where all recorded observations from users are stored 
 
 ## Class diagram
 
-<img src=screenshots/class_diagram.png />
+<img src=screenshots/Class_diagram.png />
 
 ## How to use the App? (User Guide)
 ### To make an observation report
