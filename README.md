@@ -84,7 +84,7 @@ The app will also automatically highlight any buildings that has one or more was
 
 ## Class diagram
 
-<img src=screenshots/Class_diagram.png />
+<img src=screenshots/ClassDiagram.png />
 
 ## Known Bugs and Limitations
 - Requires wifi connection
